@@ -1,0 +1,12 @@
+{
+  "name": "gps-tracking-link-generator",
+  "version": "1.0.0",
+  "description": "A web application to generate tracking links and monitor GPS locations of visitors",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
